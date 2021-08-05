@@ -1,8 +1,8 @@
 {
-  "name": "monokai-one-dark-vivid-syntax",
+  "name": "mk-1d-antiblue-syntax",
   "theme": "syntax",
-  "version": "1.6.0",
-  "description": "Monokai mixed with one dark with some vivid tweaks",
+  "version": "0.1",
+  "description": "Personalized Monokai for a clean One Dark theme",
   "readmeFilename": "README.md",
   "keywords": [
     "syntax",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashpowell/monokai-one-dark-vivid-syntax.git"
+    "url": "git+https://github.com/kees-/mk-1d-antiblue-syntax.git"
   },
   "license": "MIT",
   "engines": {

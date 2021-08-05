@@ -4,10 +4,11 @@
 // include a syntax-variables.less file.
 
 // General colors
-@syntax-text-color: #ffffff;
-@syntax-cursor-color: #F8F8F0;
-@syntax-selection-color: #434a5c;
-@syntax-background-color: hsl(215, 35%, 15%);
+@syntax-text-color: #FFF8E5;
+@syntax-cursor-color: #FFF;
+@syntax-selection-color: #434A5C;
+@syntax-background-color: hsl(178, 1%, 15%);
+// @syntax-background-color: #282D2B;
 
 // Guide colors
 @syntax-wrap-guide-color: rgba(255, 255, 255, .1);
@@ -25,7 +26,7 @@
 @syntax-gutter-background-color-selected: lighten(@syntax-background-color, 5%);
 
 // For git diff info. i.e. in the gutter
-@syntax-color-renamed: #FFD569;
-@syntax-color-added: #529B2F;
-@syntax-color-modified: #E6DB74;
-@syntax-color-removed: #F92672;
+@syntax-color-renamed: @light-orange-color;
+@syntax-color-added: @green-color;
+@syntax-color-modified: @yellow-color;
+@syntax-color-removed: @pink-color;

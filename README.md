@@ -1,8 +1,17 @@
-# Monokai One Dark Vivid Syntax Theme
+# Monokai | One Dark | Anti-Blue | Syntax Theme
 
-Just a personalised Monokai Vivid Syntax for One Dark.
+A personalized Atom syntax for the One Dark theme, using a [Monokai Vivid syntax](https://github.com/AshPowell/monokai-one-dark-vivid-syntax) as the baseline.
 
+🏰 Teal gang 💪💪 Blue gang 🙅‍♀️🚮
 
-Also available as a VS Code theme [monokai-one-dark-vivid](https://marketplace.visualstudio.com/items?itemName=ashpowell.monokai-one-dark-vivid)
+---
 
-![Screenshot](https://raw.githubusercontent.com/AshPowell/monokai-one-dark-vivid-syntax/master/screenshot.png)
+#### Before
+![Before](before.png)
+
+#### After
+![After](after.png)
+
+---
+
+<center><img src="cnp.svg" width="50%"></center>
