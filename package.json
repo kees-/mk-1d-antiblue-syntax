@@ -1,8 +1,8 @@
 {
-  "name": "mk-1d-antiblue-syntax",
+  "name": "MK-Extra",
   "theme": "syntax",
-  "version": "0.1",
-  "description": "Personalized Monokai for a clean One Dark theme",
+  "version": "0.0.0",
+  "description": "Remixed Monokai Syntax for a clean One Dark theme",
   "readmeFilename": "README.md",
   "keywords": [
     "syntax",
@@ -10,14 +10,17 @@
     "monokai",
     "one dark",
     "vivid",
-    "saturated"
+    "saturated",
+    "colorful",
+    "clean",
+    "productivity"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kees-/mk-1d-antiblue-syntax.git"
+    "url": "https://github.com/kees-/mk-1d-antiblue-syntax.git"
   },
   "license": "MIT",
   "engines": {
-    "atom": ">= 1.13 <2.0.0"
+    "atom": ">= 1.0.0 <2.0.0"
   }
 }
