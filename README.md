@@ -1,11 +1,8 @@
 # M.K. EXTRA
-###### \*Deleted at 320k\*
-Amid all the controversy, your favorite syntax is back!
+Amid controversy...
 ## Monokai | One Dark | Anti-Blue | Syntax Theme
 
-A personalized Atom syntax for the One Dark theme, using a [Monokai Vivid syntax](https://github.com/AshPowell/monokai-one-dark-vivid-syntax) as the baseline.
-
-🏰 Teal gang 💪💪 Blue gang 🙅‍♀️🚮
+Atom syntax for the One Dark theme, using [Monokai Vivid syntax](https://github.com/AshPowell/monokai-one-dark-vivid-syntax) as baseline.
 
 ---
 
